@@ -1,29 +1,24 @@
-<!-- <p align="center">
+<p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+vishal;Web+Developer+From+🇮🇳&font=Fira%20Code&center=true&width=700&height=50&weight=1100&size=32&duration=2000&pause=2000">
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
- 
- 
-  <a href="https://github.com/MukeshKaswan1/" title="portfolio">
-<!--   <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%"> -->
-  
-  
-<!--  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=MukeshKaswan1&text=Hi+I'm+Mukesh Kaswan &fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%"> --> 
-<img src="https://cool-covers.vercel.app/api/get-cover?username=MukeshKaswan1&text=Hi+I'm+Mukesh%20Kaswan&fontFamily=Rubik+Distressed&pattern=p5&textFontSize=4.5rem&textWordSpacing=25px">
-
- </a>
- 
-
-  
-  
-  
- <!-- <p align="center">
-
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer||Web+Developer;React.JS+Developer+From+🇮🇳&font=Fira%20Code&center=true&width=700&height=50&weight=1100&size=32&duration=2000&pause=2000">  -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Mukesh;Web+Developer+From+🇮🇳&font=Fira%20Code&center=true&width=700&height=50&weight=1100&size=32&duration=2000&pause=2000">
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MukeshKaswan1&label=Profile%20views&color=0e75b6&style=flat" alt="MukeshKaswan1 " /> </p>  
+
+  <a href="https://github.com/MukeshKaswan1/" title="portfolio">
+    <img src="https://cool-covers.vercel.app/api/get-cover?username=MukeshKaswan1&text=Hi+I'm+Mukesh%20Kaswan&fontFamily=Rubik+Distressed&pattern=p5&textFontSize=4.5rem&textWordSpacing=25px">
+  </a>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MukeshKaswan1&label=Profile%20views&color=0e75b6&style=flat" alt="MukeshKaswan1" />
+  </p>
+  
+  <p align="center">
+    <strong>Recent Follower:</strong> <a href="https://github.com/recent-follower-username">recent-follower-username</a>
+  </p>
+  
+</p>
 
 
 <p> Hello, I am Mukesh Kaswan, an enthusiastic Full Stack developer specializing in MERN Stack and creating captivating and user-friendly web experiences.
