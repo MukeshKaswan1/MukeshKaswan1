@@ -10,7 +10,8 @@
   
   
 <!--  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=MukeshKaswan1&text=Hi+I'm+Mukesh Kaswan &fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%"> --> 
-<img src="https://cool-covers.vercel.app/api/get-cover?username=MukeshKaswan1&text=Hi+I'm+Mukesh Kaswan&fontFamily=Rubik+Distressed&pattern=p5&textFontSize=4.5rem&textWordSpacing=25px">
+<img src="https://cool-covers.vercel.app/api/get-cover?username=MukeshKaswan1&text=Hi+I'm+Mukesh%20Kaswan&fontFamily=Rubik+Distressed&pattern=p5&textFontSize=4.5rem&textWordSpacing=25px">
+
  </a>
  
 
