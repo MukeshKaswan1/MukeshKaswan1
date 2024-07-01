@@ -10,7 +10,7 @@
   
   
 <!--  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=MukeshKaswan1&text=Hi+I'm+Mukesh Kaswan &fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%"> --> 
-<img src="https://cool-covers.vercel.app/api/get-cover?username=MukeshKaswan1&text=Hi+I'm+Saransh&fontFamily=Rubik+Distressed&pattern=p5&textFontSize=4.5rem&textWordSpacing=25px">
+<img src="https://cool-covers.vercel.app/api/get-cover?username=MukeshKaswan1&text=Hi+I'm+Mukesh Kaswan&fontFamily=Rubik+Distressed&pattern=p5&textFontSize=4.5rem&textWordSpacing=25px">
  </a>
  
 
@@ -45,7 +45,7 @@ I have a solid foundation in HTML, CSS, Bootstrap, TailwindCSS, MaterialUI, Reac
 
 <a href="https://www.linkedin.com/in/mukesh-kaswan-22b8a2237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href = "mailto:mkaswan960@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/your_username" target="_blank">
+<a href="https://x.com/mukeshkaswan07" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://leetcode.com/MukeshKaswan" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
