@@ -9,8 +9,8 @@
 <!--   <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%"> -->
   
   
-<!--  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=saranshh&text=Hi+I'm+Saransh&fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%"> --> 
-<img src="https://cool-covers.vercel.app/api/get-cover?username=saranshh&text=Hi+I'm+Saransh&fontFamily=Rubik+Distressed&pattern=p5&textFontSize=4.5rem&textWordSpacing=25px">
+<!--  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=MukeshKAswan1&text=Hi+I'm+Saransh&fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%"> --> 
+<img src="https://cool-covers.vercel.app/api/get-cover?username=MukeshKAswan1&text=Hi+I'm+Saransh&fontFamily=Rubik+Distressed&pattern=p5&textFontSize=4.5rem&textWordSpacing=25px">
  </a>
  
 
@@ -22,12 +22,12 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer||Web+Developer;React.JS+Developer+From+🇮🇳&font=Fira%20Code&center=true&width=700&height=50&weight=1100&size=32&duration=2000&pause=2000">  -->
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saranshh&label=Profile%20views&color=0e75b6&style=flat" alt="saranshh " /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MukeshKAswan1&label=Profile%20views&color=0e75b6&style=flat" alt="MukeshKAswan1 " /> </p>
 
 
-<p> Hello, I am Saransh, an enthusiastic Full Stack developer specializing in MERN Stack and creating captivating and user-friendly web experiences.
+<p> Hello, I am Mukesh Kaswan, an enthusiastic Full Stack developer specializing in MERN Stack and creating captivating and user-friendly web experiences.
 
-I have a solid foundation in HTML, CSS, Bootstrap, JavaScript, ReactJS, Angular, NodeJs, ExpressJs and MongoDB, I transform imaginative designs into functional websites.
+I have a solid foundation in HTML, CSS, Bootstrap, TailwindCSS, MaterialUI, ReactJS, JavaScript, NodeJs, ExpressJs and MongoDB, I transform imaginative designs into functional websites.
 
 <!-- I thrive on continuous learning, staying updated with the latest technologies and trends. Collaboration is at the core of my process, working closely with designers and stakeholders to create visually stunning and intuitive websites. </p> -->
 
@@ -35,9 +35,9 @@ I have a solid foundation in HTML, CSS, Bootstrap, JavaScript, ReactJS, Angular,
 
 <div>
 <!--         <a href="https://github.com/FahimFBA?tab=followers"> -->
-<!--          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/saranshh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a> -->
+<!--          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MukeshKaswan1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a> -->
 <!--       <a href="https://github.com/FahimFBA?tab=repositories&sort=stargazers"> -->
-<!--         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/saranshh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> -->
+<!--         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MukeshKAswan1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> -->
 
       
    
@@ -72,6 +72,6 @@ I have a solid foundation in HTML, CSS, Bootstrap, JavaScript, ReactJS, Angular,
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Poro](https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1)](https://saranshh.github.io/about/)
+[![Poro](https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1)](https://MukeshKAswan1.github.io/about/)
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+😊;Leave+a+⭐,+If+you+like+😊&font=Fira%20Code&center=true&width=600&height=60&weight=1100&size=35&duration=2000&pause=2000">
